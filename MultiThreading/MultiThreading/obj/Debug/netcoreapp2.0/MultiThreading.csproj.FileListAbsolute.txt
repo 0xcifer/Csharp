@@ -1,0 +1,11 @@
+C:\Users\sganti\Source\Repos\Csharp\MultiThreading\MultiThreading\bin\Debug\netcoreapp2.0\MultiThreading.deps.json
+C:\Users\sganti\Source\Repos\Csharp\MultiThreading\MultiThreading\bin\Debug\netcoreapp2.0\MultiThreading.runtimeconfig.json
+C:\Users\sganti\Source\Repos\Csharp\MultiThreading\MultiThreading\bin\Debug\netcoreapp2.0\MultiThreading.runtimeconfig.dev.json
+C:\Users\sganti\Source\Repos\Csharp\MultiThreading\MultiThreading\bin\Debug\netcoreapp2.0\MultiThreading.dll
+C:\Users\sganti\Source\Repos\Csharp\MultiThreading\MultiThreading\bin\Debug\netcoreapp2.0\MultiThreading.pdb
+C:\Users\sganti\Source\Repos\Csharp\MultiThreading\MultiThreading\obj\Debug\netcoreapp2.0\MultiThreading.csprojResolveAssemblyReference.cache
+C:\Users\sganti\Source\Repos\Csharp\MultiThreading\MultiThreading\obj\Debug\netcoreapp2.0\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\sganti\Source\Repos\Csharp\MultiThreading\MultiThreading\obj\Debug\netcoreapp2.0\MultiThreading.AssemblyInfoInputs.cache
+C:\Users\sganti\Source\Repos\Csharp\MultiThreading\MultiThreading\obj\Debug\netcoreapp2.0\MultiThreading.AssemblyInfo.cs
+C:\Users\sganti\Source\Repos\Csharp\MultiThreading\MultiThreading\obj\Debug\netcoreapp2.0\MultiThreading.dll
+C:\Users\sganti\Source\Repos\Csharp\MultiThreading\MultiThreading\obj\Debug\netcoreapp2.0\MultiThreading.pdb
