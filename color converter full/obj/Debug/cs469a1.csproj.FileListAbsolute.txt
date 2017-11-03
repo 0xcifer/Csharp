@@ -1,0 +1,17 @@
+C:\Spring-2015\CS740\one\bin\Debug\cs469a1.exe
+C:\Spring-2015\CS740\one\bin\Debug\cs469a1.pdb
+C:\Spring-2015\CS740\one\obj\Debug\cs469a1.ImageWindow.resources
+C:\Spring-2015\CS740\one\obj\Debug\cs469a1.MainWindow.resources
+C:\Spring-2015\CS740\one\obj\Debug\cs469a1.Properties.Resources.resources
+C:\Spring-2015\CS740\one\obj\Debug\cs469a1.csproj.GenerateResource.Cache
+C:\Spring-2015\CS740\one\obj\Debug\cs469a1.exe
+C:\Spring-2015\CS740\one\obj\Debug\cs469a1.pdb
+C:\Users\Quad\Downloads\projects\one\obj\Debug\cs469a1.exe
+C:\Users\Quad\Downloads\projects\one\obj\Debug\cs469a1.pdb
+C:\Users\Quad\Downloads\projects\one\bin\Debug\cs469a1.exe
+C:\Users\Quad\Downloads\projects\one\bin\Debug\cs469a1.pdb
+C:\Users\Quad\Downloads\projects\one\obj\Debug\cs469a1.csprojResolveAssemblyReference.cache
+C:\Users\Quad\Downloads\projects\one\obj\Debug\cs469a1.ImageWindow.resources
+C:\Users\Quad\Downloads\projects\one\obj\Debug\cs469a1.MainWindow.resources
+C:\Users\Quad\Downloads\projects\one\obj\Debug\cs469a1.Properties.Resources.resources
+C:\Users\Quad\Downloads\projects\one\obj\Debug\cs469a1.csproj.GenerateResource.Cache

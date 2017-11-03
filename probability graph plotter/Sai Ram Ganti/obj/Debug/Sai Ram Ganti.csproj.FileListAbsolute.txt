@@ -1,0 +1,28 @@
+C:\Users\Quad\Desktop\Sai Ram Ganti\Sai Ram Ganti\bin\Debug\Sai Ram Ganti.exe.config
+C:\Users\Quad\Desktop\Sai Ram Ganti\Sai Ram Ganti\bin\Debug\Sai Ram Ganti.exe
+C:\Users\Quad\Desktop\Sai Ram Ganti\Sai Ram Ganti\bin\Debug\Sai Ram Ganti.pdb
+C:\Users\Quad\Desktop\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\Sai Ram Ganti.csprojResolveAssemblyReference.cache
+C:\Users\Quad\Desktop\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\MainWindow.baml
+C:\Users\Quad\Desktop\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\MainWindow.g.cs
+C:\Users\Quad\Desktop\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\App.g.cs
+C:\Users\Quad\Desktop\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\Sai Ram Ganti_MarkupCompile.cache
+C:\Users\Quad\Desktop\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\Sai Ram Ganti.g.resources
+C:\Users\Quad\Desktop\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\Sai_Ram_Ganti.Properties.Resources.resources
+C:\Users\Quad\Desktop\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\Sai Ram Ganti.csproj.GenerateResource.Cache
+C:\Users\Quad\Desktop\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\Sai Ram Ganti.exe
+C:\Users\Quad\Desktop\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\Sai Ram Ganti.pdb
+C:\Users\Quad\Downloads\projects\Sai Ram Ganti\Sai Ram Ganti\bin\Debug\Sai Ram Ganti.exe.config
+C:\Users\Quad\Downloads\projects\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\Sai Ram Ganti.exe
+C:\Users\Quad\Downloads\projects\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\Sai Ram Ganti.pdb
+C:\Users\Quad\Downloads\projects\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\Sai Ram Ganti.csprojResolveAssemblyReference.cache
+C:\Users\Quad\Downloads\projects\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\MainWindow.baml
+C:\Users\Quad\Downloads\projects\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\MainWindow.g.cs
+C:\Users\Quad\Downloads\projects\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\App.g.cs
+C:\Users\Quad\Downloads\projects\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\Sai Ram Ganti_MarkupCompile.cache
+C:\Users\Quad\Downloads\projects\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\Sai Ram Ganti.g.resources
+C:\Users\Quad\Downloads\projects\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\Sai_Ram_Ganti.Properties.Resources.resources
+C:\Users\Quad\Downloads\projects\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\Sai Ram Ganti.csproj.GenerateResource.Cache
+C:\Users\Quad\Downloads\projects\Sai Ram Ganti\Sai Ram Ganti\bin\Debug\Sai Ram Ganti.exe
+C:\Users\Quad\Downloads\projects\Sai Ram Ganti\Sai Ram Ganti\bin\Debug\Sai Ram Ganti.pdb
+C:\Users\Quad\Downloads\projects\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\Graph.baml
+C:\Users\Quad\Downloads\projects\Sai Ram Ganti\Sai Ram Ganti\obj\Debug\Graph.g.cs

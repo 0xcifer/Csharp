@@ -1,0 +1,9 @@
+C:\Users\Quad\Desktop\zoom\zoom\bin\Debug\zoom.exe.config
+C:\Users\Quad\Desktop\zoom\zoom\bin\Debug\zoom.exe
+C:\Users\Quad\Desktop\zoom\zoom\bin\Debug\zoom.pdb
+C:\Users\Quad\Desktop\zoom\zoom\obj\Debug\zoom.zoom.resources
+C:\Users\Quad\Desktop\zoom\zoom\obj\Debug\zoom.Properties.Resources.resources
+C:\Users\Quad\Desktop\zoom\zoom\obj\Debug\zoom.csproj.GenerateResource.Cache
+C:\Users\Quad\Desktop\zoom\zoom\obj\Debug\zoom.exe
+C:\Users\Quad\Desktop\zoom\zoom\obj\Debug\zoom.pdb
+C:\Users\Quad\Desktop\zoom\zoom\obj\Debug\zoom.csprojResolveAssemblyReference.cache
